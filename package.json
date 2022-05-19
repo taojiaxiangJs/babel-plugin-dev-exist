@@ -1,0 +1,18 @@
+{
+  "name": "babel-plugin-dev-exist",
+  "version": "1.0.0",
+  "description": "这是一个可是在源头上实现，代码逻辑仅存在于开发环境中的 Babel plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "babel-plugin"
+  ],
+  "author": "tjx",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/taojiaxiangJs/babel-plugin-dev-exist"
+  }
+}
